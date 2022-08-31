@@ -6,6 +6,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "framer-motion": "^7.2.1",
+    "locomotive-scroll": "^4.1.4",
     "next": "latest",
     "react": "18.1.0",
     "react-dom": "18.1.0"
